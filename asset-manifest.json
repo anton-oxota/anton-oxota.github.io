@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.33d858a9.css",
+    "main.js": "/static/js/main.494731ce.js",
+    "static/media/CV_Okhota_Junior_Front-End.pdf": "/static/media/CV_Okhota_Junior_Front-End.65f2fadbf07746692179.pdf",
+    "static/media/react.png": "/static/media/react.52de6422409ad1571d1f.png",
+    "static/media/redux.png": "/static/media/redux.c9edf28577767c44623c.png",
+    "static/media/mail.png": "/static/media/mail.2c378c9ee25927123f7d.png",
+    "static/media/phone-call.png": "/static/media/phone-call.20a0ed4204215b0502d9.png",
+    "static/media/css.png": "/static/media/css.7654ce00c5ac2e76e015.png",
+    "static/media/html.png": "/static/media/html.31497a13d5b51cea9b7d.png",
+    "index.html": "/index.html",
+    "main.33d858a9.css.map": "/static/css/main.33d858a9.css.map",
+    "main.494731ce.js.map": "/static/js/main.494731ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33d858a9.css",
+    "static/js/main.494731ce.js"
+  ]
+}
